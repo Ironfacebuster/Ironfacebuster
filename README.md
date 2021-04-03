@@ -3,6 +3,7 @@ Welcome to my GitHub page, I guess!
 
 ## About me
 I'm just a young guy interested in coding, art, and design!
+I'm always looking for ways to grow my knowledge!
 
 ## A Tasting of My Projects
 1. Samsung Tizen Twitch app - **NOT PUBLIC**
