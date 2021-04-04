@@ -12,7 +12,7 @@ I'm always looking for ways to grow my knowledge!
 4. NodeBoy - a GameBoy "emulator" ALSO written in NodeJS, **NOT PUBLIC**.
 5. [Cards Against Discord](https://top.gg/bot/561675421364781069) - A Cards Against Humanity bot. The FIRST of the name "Cards Against Discord". Unfortunately I have not released updates for this bot in quite some time.
 6. [LottoBotto](https://top.gg/bot/425441496158830593) - A casino game style Discord bot. As with "CAD", this bot has sat idle with no updates for a while.
-7. ["Chrome-Uno"](http://chrome-uno.herokuapp.com/pages/home.html) - An old, free to play, Uno game. At first, it was Chrome only because of CSS issues, but now Chrome also has its _own_ CSS issues, so here it sits, unfinished.
+7. ["Chrome-Uno"](https://chrome-uno.herokuapp.com/pages/home.html) - An old, free to play, Uno game. At first, it was Chrome only because of CSS issues, but now Chrome also has its _own_ CSS issues, so here it sits, unfinished.
 
 ## My Gripes
 Most of my projects go unfinished, due to various reasons.
