@@ -25,4 +25,4 @@ Sometimes the scale gets way out of hand, and I haven't found anybody I know eno
 ## Obvious Social Media Shilling
 * My [Twitter](https://twitter.com/Ironfacebuster)
 * My [Twitch](https://www.twitch.tv/ironfacebuster)
-* My Discord Server (Coding Hub maybe?)
+* My [Discord Server](https://discord.gg/m7EZbC5tbw)
