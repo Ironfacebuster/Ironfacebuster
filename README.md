@@ -6,6 +6,7 @@ I'm just a young guy interested in coding, art, and design!
 I'm always looking for ways to grow my knowledge!
 
 ## A Tasting of My Projects
+1. [Kepler](https://github.com/Ironfacebuster/kepler-interpreter/releases) - A WIP interpreted coding language!
 1. Samsung Tizen Twitch app - **NOT PUBLIC**
 2. WIP "social media" site.- **NOT PUBLIC**
 3. [NodeCraft](https://github.com/Ironfacebuster/NodeCraft) - b1.6.6 minecraft server, written in NodeJS
