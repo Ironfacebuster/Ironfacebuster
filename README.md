@@ -1,9 +1,5 @@
 # Hello!
-Welcome to my GitHub page, I guess!
-
-## About me
-I'm just a young guy interested in coding, art, and design!
-I'm always looking for ways to grow my knowledge!
+Check out my new github pages site: https://ironfacebuster.github.io/
 
 ## A Tasting of My Projects
 1. [Kepler](https://github.com/Ironfacebuster/kepler-interpreter/releases) - A WIP interpreted coding language!
@@ -16,12 +12,7 @@ I'm always looking for ways to grow my knowledge!
 7. ["Chrome-Uno"](https://chrome-uno.herokuapp.com/pages/home.html) - An old, free to play, Uno game. At first, it was Chrome only because of CSS issues, but now Chrome also has its _own_ CSS issues, so here it sits, unfinished.
 8. [Node system](https://github.com/Ironfacebuster/javablocks) - An online node based programming system, as of yet unnamed.
 
-## My Gripes
-Most of my projects go unfinished, due to various reasons.
-Sometimes I get bored.
-Sometimes the scale gets way out of hand, and I haven't found anybody I know enough to trust allowing them to work on it.
-
-**If you like what you see, PM me on Twitter, @Ironfacebuster**
+**Want to contact me? DM me on Twitter: [@Ironfacebuster](https://twitter.com/Ironfacebuster)**
 
 ## Obvious Social Media Shilling
 * My [Twitter](https://twitter.com/Ironfacebuster)
