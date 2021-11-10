@@ -1,5 +1,5 @@
 # Hello!
-Check out my new github pages site: https://ironfacebuster.github.io/
+Check out my new site: https://www.ironfacebuster.tk/
 
 ## A Tasting of My Projects
 1. [Kepler](https://github.com/Ironfacebuster/kepler-interpreter/releases) - A WIP interpreted coding language!
