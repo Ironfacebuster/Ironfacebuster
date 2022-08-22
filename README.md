@@ -1,4 +1,7 @@
-# Hello!
+# Play Letter Royale!
+https://www.letterroyale.fun/
+
+## Welcome!
 Check out my new site: https://www.ironfacebuster.ml/
 
 ## A Tasting of My Projects
